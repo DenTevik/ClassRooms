@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Project
+## About Projects
 
 Small Project on Laravel, which demonstrate developing process to create simple REST-API base on Laravel framework:
 
